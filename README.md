@@ -3,8 +3,6 @@
   <a href="https://sav7ng.com">Sav7ng Blog</a>
 </p>
 
----
-
 📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
