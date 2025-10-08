@@ -8,10 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             1 hr 53 mins    ██████████████░░░░░░░░░░░   55.46 %
-XML              1 hr 27 mins    ██████████▓░░░░░░░░░░░░░░   42.41 %
-JSON             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
