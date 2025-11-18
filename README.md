@@ -8,9 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java    13 mins         ████████████████████████▒   97.81 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
