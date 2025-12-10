@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              10 hrs 24 mins  ████████████████░░░░░░░░░   64.22 %
+Python            2 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
+YAML              1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+HTML              40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Markdown          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
