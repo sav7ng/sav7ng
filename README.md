@@ -8,9 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     39 mins               ███████████████████░░░░░░   75.53 %
-JavaScript   7 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 %
-Swift        4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
