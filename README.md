@@ -8,11 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 26 mins         ████████████▓░░░░░░░░░░░░   50.27 %
-Java         42 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
-Python       23 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Swift        20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Other        14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
